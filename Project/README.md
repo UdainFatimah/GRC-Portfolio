@@ -86,11 +86,8 @@ GitLab-GRC-Risk-Assessment
 │
 ├── README.md
 ├── GitLab_GRC_Case_Study.pdf
-├── GitLab_Risk_Assessment.xlsx
-└── Images/
-    ├── asset_inventory.png
-    ├── risk_matrix.png
-    └── heat_map.png
+└── GitLab_Risk_Assessment.xlsx
+ 
 ```
 
 ---
