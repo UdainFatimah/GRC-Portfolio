@@ -9,7 +9,6 @@
 # GitLab Enterprise GRC Risk Assessment
 
 > **A public-information-based Governance, Risk & Compliance (GRC) assessment of GitLab, demonstrating enterprise cyber risk analysis, information security governance, and compliance mapping.**
-
 ---
 
 ## Overview
