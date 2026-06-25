@@ -6,6 +6,13 @@
 
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
+## Related Article
+
+A detailed walkthrough of the assessment methodology, key findings, and lessons learned is available on Medium.
+
+📝 Medium Article:
+https://medium.com/@udainch/what-happens-when-you-apply-grc-thinking-to-a-global-devsecops-platform-4f10b1b8d526
+
 # GitLab Enterprise GRC Risk Assessment
 
 > **A public-information-based Governance, Risk & Compliance (GRC) assessment of GitLab, demonstrating enterprise cyber risk analysis, information security governance, and compliance mapping.**
