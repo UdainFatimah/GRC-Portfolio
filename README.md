@@ -1,53 +1,70 @@
-# GRC Portfolio
+# Governance, Risk & Compliance (GRC) Portfolio
 
-Welcome to my Governance, Risk & Compliance (GRC) portfolio.
+Welcome!
 
-I am a Cybersecurity student building practical knowledge and hands-on experience in Information Security Governance, Risk Management, Compliance, and Cyber Risk Assessment.
+I'm **Udain Fatima**, a Cybersecurity student with a growing interest in **Governance, Risk & Compliance (GRC), Information Security Governance and Cyber Risk Management**.
 
-This repository documents my learning journey and contains projects, templates, assessments, policies, and framework studies related to:
+This repository documents my journey of building practical GRC skills through real-world case studies, enterprise risk assessments, governance documentation, compliance mapping and security policy development. Rather than relying solely on theoretical learning, I apply GRC principles to real organizations using publicly available information to better understand how businesses identify, assess, prioritize, and manage cyber risk.
 
-* ISO 27001
-* ISO 27005
+My goal is to build a portfolio that reflects the work of an aspiring GRC analyst while continuously improving through research, practical projects and feedback from the cybersecurity community.
+
+# Repository Structure
+
+##  Projects
+
+Practical GRC case studies performed on real organizations using publicly available information.
+
+##  ISO 27001
+
+Control mappings, implementation exercises, ISMS documentation, and supporting resources.
+
+##  Risk Management
+
+Risk registers, risk matrices, treatment plans, and risk assessment methodologies.
+
+##  NIST CSF
+
+Framework studies, implementation exercises, and comparative mappings.
+
+##  GDPR
+
+Privacy compliance research, gap assessments, and governance documentation.
+
+##  Policies
+
+Information security policies, standards, procedures, and governance templates.
+
+##  Audit Checklists
+
+Internal audit preparation, compliance reviews, and assessment templates.
+
+##  Articles
+
+Published articles documenting my learning journey and practical insights into Governance, Risk & Compliance.
+
+
+# Skills Demonstrated
+
+* Governance, Risk & Compliance (GRC)
+* Enterprise Risk Assessment
+* Information Security Governance
+* Cyber Risk Analysis
+* Asset Identification & Classification
+* Risk Registers & Risk Matrices
+* Risk Treatment Planning
+* ISO 27001 Fundamentals
+* ISO 27005 Risk Management
 * NIST Cybersecurity Framework (CSF)
-* GDPR
-* Risk Assessment & Risk Treatment
-* Security Policies
-* Vendor Risk Management
-* Internal Auditing
+* GDPR Fundamentals
+* Third-Party & Vendor Risk Management
+* Security Policy Development
 * Business Continuity & Resilience
 
-## Repository Structure
+# Portfolio Objective
 
-### ISO27001
+This repository serves as a public portfolio demonstrating my progression toward a career in Governance, Risk & Compliance (GRC), Information Security Governance and Cyber Risk Management.
 
-Notes, mappings, controls, and implementation exercises.
+Every project is an opportunity to apply GRC concepts in a practical setting, strengthen my analytical thinking and develop documentation that reflects professional standards.
 
-### Risk Management
+I welcome feedback from professionals working in cybersecurity, governance, risk management, compliance, audit and information security.
 
-Risk registers, risk matrices, risk assessments, and treatment plans.
-
-### NIST CSF
-
-Framework studies, comparisons, and implementation exercises.
-
-### GDPR
-
-Privacy and compliance projects, checklists, and assessments.
-
-### Policies
-
-Information security policies and governance documentation.
-
-### Audit Checklists
-
-Internal audit preparation and compliance review templates.
-
-### Articles
-
-Links and references to published articles documenting my GRC learning journey.
-
-## Purpose
-
-This repository serves as a public record of my development toward a career in Governance, Risk & Compliance (GRC), Information Security Governance, and Cyber Risk Management.
-
-I welcome feedback from cybersecurity, governance, risk, compliance, and audit professionals.
