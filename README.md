@@ -2,7 +2,7 @@
 
 Welcome!
 
-I'm **Udain Fatima**, a Cybersecurity student with a growing interest in **Governance, Risk & Compliance (GRC), Information Security Governance and Cyber Risk Management**.
+I'm **Udain Fatimah**, a Cybersecurity student with a growing interest in **Governance, Risk & Compliance (GRC), Information Security Governance and Cyber Risk Management**.
 
 This repository documents my journey of building practical GRC skills through real-world case studies, enterprise risk assessments, governance documentation, compliance mapping and security policy development. Rather than relying solely on theoretical learning, I apply GRC principles to real organizations using publicly available information to better understand how businesses identify, assess, prioritize, and manage cyber risk.
 
