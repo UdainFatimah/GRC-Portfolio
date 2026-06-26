@@ -8,40 +8,6 @@ This repository documents my journey of building practical GRC skills through re
 
 My goal is to build a portfolio that reflects the work of an aspiring GRC analyst while continuously improving through research, practical projects and feedback from the cybersecurity community.
 
-# Repository Structure
-
-##  Projects
-
-Practical GRC case studies performed on real organizations using publicly available information.
-
-##  ISO 27001
-
-Control mappings, implementation exercises, ISMS documentation, and supporting resources.
-
-##  Risk Management
-
-Risk registers, risk matrices, treatment plans, and risk assessment methodologies.
-
-##  NIST CSF
-
-Framework studies, implementation exercises, and comparative mappings.
-
-##  GDPR
-
-Privacy compliance research, gap assessments, and governance documentation.
-
-##  Policies
-
-Information security policies, standards, procedures, and governance templates.
-
-##  Audit Checklists
-
-Internal audit preparation, compliance reviews, and assessment templates.
-
-##  Articles
-
-Published articles documenting my learning journey and practical insights into Governance, Risk & Compliance.
-
 
 # Skills Demonstrated
 
